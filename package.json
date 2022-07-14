@@ -1,0 +1,22 @@
+{
+  "name": "traineemanagement",
+  "version": "1.0.0",
+  "description": "CRUD Restful API for managing entities in Solvit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminhiti/TraineeManagement.git"
+  },
+  "author": "Benjamin Hitimana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjaminhiti/TraineeManagement/issues"
+  },
+  "homepage": "https://github.com/benjaminhiti/TraineeManagement#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
